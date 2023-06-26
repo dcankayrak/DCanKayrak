@@ -4,7 +4,7 @@
 
 I am excited about the future of technology and the endless possibilities it holds. As a software engineer, I look forward to contributing my skills and creativity to shape the digital landscape and make a positive impact on the world.
 
-Skills: JAVA / SPRING / REACT / JS / HTML / PYTHON
+Skills: JAVA / SPRING / REACT / JS / HTML / PYTHON / C#
 
 - 🔭 I’m currently working on this page. 
 
