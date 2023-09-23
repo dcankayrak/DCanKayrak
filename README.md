@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m Danyal Can KAYRAK.<br>- 👀 I’m interested in fullstack web development and AI.<br>- 💞️ My heart is beating with Java & React. <br>- 📫 If u want to reach me, I am here.</p>
+<p align="left">- 👋 Hi, I’m Danyal Can KAYRAK.<br>- 👀 I’m interested in fullstack web development and AI.<br>- 💞️ My heart is beating with Java & ReactJS. <br>- 📫 If u want to reach me, I am here.</p>
 
 ###
 
